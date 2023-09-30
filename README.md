@@ -1,2 +1,2 @@
 # Course_tasks
-I complete the required Tasks 
+I completed the required Tasks for applying to this course 
